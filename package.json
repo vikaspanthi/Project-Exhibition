@@ -1,0 +1,1 @@
+{"name":"project-exhibition-github-pages","version":"1.0.0","private":true,"type":"module","scripts":{"test":"node tests/database.mjs && node tests/frontend.mjs","check":"node --check assets/app.js && node --check assets/backend.js"},"devDependencies":{"@electric-sql/pglite":"0.5.8"}}
