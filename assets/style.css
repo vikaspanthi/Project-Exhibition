@@ -4,3 +4,5 @@
 .auth-tabs{display:flex;gap:10px;margin:0 0 20px}.auth{max-width:680px}.actions{display:flex;gap:12px;flex-wrap:wrap}.spaced{margin-top:20px}.score-row input{margin-bottom:0}.contact a{overflow-wrap:anywhere}.auth .button{margin-top:10px}
 
 .view-tabs{display:flex;gap:12px;flex-wrap:wrap;margin-bottom:24px}.danger{background:#b52a34;color:white}.auth-tabs{flex-wrap:wrap}[hidden]{display:none!important}.actions button{white-space:nowrap}
+
+.member-options{max-height:280px;overflow:auto;border:1px solid #dce3ee;padding:12px;border-radius:10px;margin-bottom:16px}.member-options .check{margin:8px 0}
