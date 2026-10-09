@@ -6,3 +6,5 @@
 .view-tabs{display:flex;gap:12px;flex-wrap:wrap;margin-bottom:24px}.danger{background:#b52a34;color:white}.auth-tabs{flex-wrap:wrap}[hidden]{display:none!important}.actions button{white-space:nowrap}
 
 .member-options{max-height:280px;overflow:auto;border:1px solid #dce3ee;padding:12px;border-radius:10px;margin-bottom:16px}.member-options .check{margin:8px 0}
+
+.dashboard-actions{position:relative}.dashboard-actions .actions{flex-wrap:wrap;margin-top:14px}.dashboard-actions label{max-width:440px}#bulk-progress{padding:12px 0;font-weight:600}
